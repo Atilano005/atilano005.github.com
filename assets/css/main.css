@@ -2028,7 +2028,7 @@ input, select, textarea {
 						top: 0;
 						left: 0;
 						width: 100%;
-						height: 100%;
+						height: 90%;
 						-moz-object-fit: cover;
 						-webkit-object-fit: cover;
 						-ms-object-fit: cover;
@@ -2036,7 +2036,7 @@ input, select, textarea {
 						-moz-object-position: center;
 						-webkit-object-position: center;
 						-ms-object-position: center;
-						object-position: center;
+						object-position: aln-right;
 					}
 
 					#main > .panel.intro .pic .arrow {
